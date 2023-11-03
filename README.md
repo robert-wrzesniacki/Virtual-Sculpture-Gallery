@@ -4,6 +4,7 @@ Virtual Sculpture Gallery
 ===================================
 
 Author: Robert Wrześniacki
+
 Date: 2013
 
 ## Description:
@@ -33,6 +34,7 @@ Wirtualna galeria rzeźb
 ===================================
 
 Autor: Robert Wrześniacki
+
 Data: 2013
 
 ## Opis
